@@ -1,0 +1,4 @@
+body{background-color: rgb(187, 98, 98);}
+
+h1{text-align: center; font: 1200;color: rgb(165, 245, 218);}
+#header{display: flex; justify-content: center; align-items: center; height: 100vh;}
